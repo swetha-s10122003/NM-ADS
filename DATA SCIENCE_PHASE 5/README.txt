@@ -35,5 +35,5 @@ To use the code in this repository, follow these steps:
 2. Navigate to the project directory.
 3. Install the dependencies using the requirements file.
 4. Run the Jupyter Notebook:.
-5. Open the `Stock_Price_Prediction.ipynb` file and run the cells.
+5. Open the `ADS_Phase5.ipynb` file and run the cells.
 
